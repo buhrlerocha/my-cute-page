@@ -1,0 +1,72 @@
+/* Inserta tu CSS aqui */
+.container-fluid {
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 400px;
+}
+nav {
+	margin: 0 auto;
+	text-align: center;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 15px 0px;
+}
+a {
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	padding: 30px;
+}
+.logo {
+	margin: 50px 500px;
+}
+h1 {
+	color: white;
+	margin-left: 420px;
+}
+h4 {
+	color: white;
+	margin-left: 470px;
+}
+.mujer {
+	margin: 80px 50px;
+	border: 1px solid black;
+
+}
+.titulo {
+	margin: 30px;
+}
+.titulo{
+	color: #cc00cc;
+	font-size: 20px;
+}
+.subtitulo{
+	color: #cc00cc;
+}
+.favourite {
+	text-align: center;
+}
+.gato {
+	border-radius: 100px;
+	height: 200px;
+	margin: 50px;
+	border: 2px solid #cc00cc;
+	padding: 2px;
+}
+footer{
+	background-image: url(../images/tile2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 300px;
+}
+.box{
+	text-align: center;
+
+}
